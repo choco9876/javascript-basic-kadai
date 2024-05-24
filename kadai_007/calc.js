@@ -1,4 +1,4 @@
-const num = 15;
+let num = 15;
 
 if(num%3===0 && num%5===0){
   console.log('3と5の倍数です');
